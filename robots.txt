@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7022a3876c.huaxiazhubao.cn/sitemap.xml
